@@ -1,7 +1,12 @@
 # 🚀 FormNest  
 
  🔗 Live Site: https://form-nest-theta.vercel.app
-note: use b@gmail.com  and pass: adi for demo viewing the site..(clone the code for ur customisations).
+
+ 
+note: use b@gmail.com  and password: 'adi' for demo viewing the site..(clone the code for ur customisations).
+
+
+
 A powerful backend solution for building, managing, and submitting dynamic forms using [Payload CMS](https://payloadcms.com/) and [Supabase](https://supabase.com/).
 
 This project allows **admin users** to create and manage multiple forms and access their submissions, while **members** can only view and manage their own. The system is built to integrate easily with any frontend via REST APIs or GraphQL.
